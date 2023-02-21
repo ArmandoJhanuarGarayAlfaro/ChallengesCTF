@@ -21,7 +21,8 @@ bandit11@bandit:~$
 ## Notas adicionales
 | comando |  descripcion|
 |---|----|
-|tr|[a-zA-Z][n-za-mN-ZA-M]
+|tr|traduce o remueve caracteres|
+
 
 
 
