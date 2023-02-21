@@ -146,7 +146,7 @@ JQttfApK4SeyHwDlI9SXGR50qclOAil1
 ## Notas adicionales
 | comando |  descripcion|
 |---|----|
-|openssl|commonly used to identufy certificate info|
+|openssl|commonly used to identify certificate info|
 
 ## Referencias
 

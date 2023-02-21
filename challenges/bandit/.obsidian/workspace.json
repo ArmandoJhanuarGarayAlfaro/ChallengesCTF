@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "af7b9930f0a0ed45",
+        "id": "eb83273dba00cd14",
         "type": "tabs",
         "children": [
           {
-            "id": "49ef33c7be719f29",
+            "id": "632df20e7ccca6a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Plantilla.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,16 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49ef33c7be719f29",
+  "active": "632df20e7ccca6a9",
   "lastOpenFiles": [
+    "Level 15 ->16.md",
+    "Level 14->15.md",
+    "Plantilla.md",
     "Level 9->10.md",
     "Level 10->11.md",
     "Level 11->12.md",
     "Level 12->13.md",
     "Level 13->14.md",
-    "Level 14->15.md",
-    "Level 15 ->16.md",
-    "Plantilla.md",
     "Level 8->9.md",
     "Level 7->8.md"
   ]
