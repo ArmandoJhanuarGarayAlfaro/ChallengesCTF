@@ -2,19 +2,13 @@
 
 ## Documentacion de los retos de ctf
 
-### Carlos Castaneda Ramirez
+### Profesor: Carlos Castaneda Ramirez
+
+### Alumna: Alexia Hernandez Martinez
 
 20200992@uaz.edu.mx
 
 ## Retos resueltos
-
-
-
-
-```python
-print("hola mundo")
-```
-
 
 
 
