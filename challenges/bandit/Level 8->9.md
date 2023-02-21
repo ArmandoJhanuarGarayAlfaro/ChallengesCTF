@@ -19,6 +19,9 @@ EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 ## Notas adicionales
 | comando |  descripcion|
 |---|----|
+|wc|imprime la cantidad de lineas, palabras y bits por cada archivo|
+
+
 
 
 ## Referencias

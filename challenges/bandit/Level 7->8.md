@@ -20,6 +20,8 @@ bandit7@bandit:~$
 ## Notas adicionales
 | comando |  descripcion|
 |---|----|
+|grep|busca un string en un grupo de archivos|
+
 
 ## Referencias
 
