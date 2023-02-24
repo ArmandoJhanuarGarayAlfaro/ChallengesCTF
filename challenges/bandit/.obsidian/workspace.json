@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb83273dba00cd14",
+        "id": "a9ee7e52b155b7f3",
         "type": "tabs",
         "children": [
           {
-            "id": "632df20e7ccca6a9",
+            "id": "541f137e8541aad6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,17 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "632df20e7ccca6a9",
+  "active": "541f137e8541aad6",
   "lastOpenFiles": [
-    "Level 15 ->16.md",
-    "Level 14->15.md",
+    "Level 16 ->17.md",
+    "Level 17->18.md",
+    "Level 19->20.md",
+    "Level 20->21.md",
+    "Level 21->22.md",
     "Plantilla.md",
+    "Level 18->19.md",
+    "Level 14->15.md",
+    "Level 15 ->16.md",
     "Level 9->10.md",
-    "Level 10->11.md",
-    "Level 11->12.md",
-    "Level 12->13.md",
-    "Level 13->14.md",
-    "Level 8->9.md",
-    "Level 7->8.md"
+    "Level 10->11.md"
   ]
 }
