@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94e44f310f3d3146",
+            "id": "83b5be9a0581862e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 30->31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3db22a28643be905",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +32,7 @@
             }
           },
           {
-            "id": "19b565d33566b1c2",
+            "id": "9836d066923a72c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +44,19 @@
             }
           },
           {
-            "id": "e5b6507fc46004c8",
+            "id": "7c3e8445f50ab0c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 27->28.md",
+                "file": "Level 33->34.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 27->28.md",
+                "file": "Level 33->34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 27->28.md",
+                "file": "Level 33->34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 27->28.md"
+                "file": "Level 33->34.md"
               }
             }
           }
@@ -171,9 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b6507fc46004c8",
+  "active": "7c3e8445f50ab0c7",
   "lastOpenFiles": [
+    "Level 32->33.md",
+    "Level 33->34.md",
     "Plantilla.md",
+    "Level 30->31.md",
+    "Level 31->32.md",
+    "Level 29->30.md",
+    "Level 28->29.md",
     "Level 27->28.md",
     "Level 26->27.md",
     "Level 25->26.md",
