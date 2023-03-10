@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2effb7911af4fb99",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82cf99ef508360d0",
+  "active": "2effb7911af4fb99",
   "lastOpenFiles": [
     "Retos-Seguridad/PrimerParcial/Pico CTF 2021/05-Tab, Tab, Attack.md",
     "Retos-Seguridad/PrimerParcial/Pico CTF 2021/04-Static ain't always noise.md",

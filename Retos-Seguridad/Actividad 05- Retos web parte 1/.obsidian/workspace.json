@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "1a06158a28616d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "f92c9bc52120a4df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd77ff974853216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Client-side-again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c0d04521a731695",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bbb144441a645ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abfc78682dd93998",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe5fe71088d9c7a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "549792feea8c2644",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af8e817d9b7482b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75a9800b05076c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "667bad5f249e8ccb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06-Client-side-again.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d13500b82e5064b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06-Client-side-again.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b50d5c971354ea2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdbd2c20d2139c57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06-Client-side-again.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3dd77ff974853216",
+  "lastOpenFiles": [
+    "Pasted image 20230310174104.png",
+    "05-picobrowser.md",
+    "Pasted image 20230310173626.png",
+    "Pasted image 20230310173403.png",
+    "04-dont-use-client-side.md",
+    "03-logon.md",
+    "02-where are the robots.md",
+    "01-Insp3ct0r.md",
+    "Pasted image 20230309130620.png",
+    "Pasted image 20230309125432.png",
+    "Pasted image 20230309123541.png",
+    "Pasted image 20230309123509.png",
+    "Pasted image 20230308180225.png",
+    "Pasted image 20230308180643.png",
+    "Plantilla (copy 6).md",
+    "06-Client-side-again.md"
+  ]
+}
