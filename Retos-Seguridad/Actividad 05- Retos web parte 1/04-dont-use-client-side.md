@@ -6,6 +6,8 @@ Can you break into this super secure portal? `https://jupiter.challenges.picoctf
 Never trust the client
 
 ## Solucion 
+
+![Drag Racing](Pasted image 20230309130620.png)
 ![[Pasted image 20230309130620.png]]
 ## Bandera
 picoCTF{no_clients_plz_b706c5}
