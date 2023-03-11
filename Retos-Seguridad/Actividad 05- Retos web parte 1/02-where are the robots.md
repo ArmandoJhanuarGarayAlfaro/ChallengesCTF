@@ -8,8 +8,9 @@ What part of the website could tell you where the creator doesn't want you to lo
 
 ## Solucion 
 ![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%2020230309123509.png)
+
 ![[Pasted image 20230309123509.png]]
-![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%20230309123541.png)
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%2020230309123541.png)
 
 ![[Pasted image 20230309123541.png]]
 
