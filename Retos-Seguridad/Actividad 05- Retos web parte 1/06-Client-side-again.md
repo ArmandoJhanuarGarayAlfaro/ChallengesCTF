@@ -6,7 +6,7 @@ Can you break into this super secure portal? `https://jupiter.challenges.picoctf
 What is obfuscation?
 
 ## Solucion 
-![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%20230310174104.png)
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%2020230310174104.png)
 
 ![[Pasted image 20230310174104.png]]
 
