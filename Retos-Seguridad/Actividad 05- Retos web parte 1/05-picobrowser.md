@@ -6,10 +6,10 @@ This website can be rendered only by **picobrowser**, go and catch the flag! `ht
 You don't need to download a new web browser
 
 ## Solucion 
-![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%20230310173403.png)
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%2020230310173403.png)
 ![[Pasted image 20230310173403.png]]
 
-![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%20230310173626.png)
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2005-%20Retos%20web%20parte%201/Pasted%20image%2020230310173626.png)
 ![[Pasted image 20230310173626.png]]
 
 ## Bandera
