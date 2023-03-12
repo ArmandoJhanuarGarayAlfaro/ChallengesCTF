@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "8e630025eb875e15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2e45ac209960cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Client-side-again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dd77ff974853216",
+  "active": "aa2e45ac209960cd",
   "lastOpenFiles": [
     "05-picobrowser.md",
     "06-Client-side-again.md",
