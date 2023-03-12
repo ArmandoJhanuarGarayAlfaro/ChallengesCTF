@@ -6,7 +6,8 @@ There is a website running at `https://jupiter.challenges.picoctf.org/problem/52
 ## Pistas
 The password is being filtered.
 
-## Solucion 
+## Solucion '
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2006-%20Retos%20web%20parte%202/Pasted%20image%2020230311203646.png)
 ![[Pasted image 20230311203646.png]]
 
 ## Bandera
