@@ -105,8 +105,11 @@ User-agent: *
 Disallow: /index.html
  Part 3: t_0f_pl4c
  I think this is an apache server... can you Access the next flag?
+ 
+ ![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2007%20-Retos%20web%20parte%203/Pasted%20image%2020230317171218.png)
 ![[Pasted image 20230317171218.png]]
 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2007%20-Retos%20web%20parte%203/Pasted%20image%2020230317171338.png)
 ![[Pasted image 20230317171338.png]]
 ## Bandera
 picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_7a46d25d}
