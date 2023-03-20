@@ -55,4 +55,4 @@ Megapixels                      : 0.360
 ## Notas Adicionales 
 |comando|descripcion|
 |---|---|
-|exiftool|xx|
+|exiftool|Muestra los metadatos|
