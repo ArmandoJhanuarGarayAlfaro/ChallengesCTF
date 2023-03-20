@@ -29,4 +29,4 @@ picoCTF{more_than_m33ts_the_3y33dd2eEF5}
 ## Notas Adicionales 
 |comando|descripcion|
 |---|---|
-|xxd|xx|
+|xxd| creates a hex dump of a given file or standard input.|
