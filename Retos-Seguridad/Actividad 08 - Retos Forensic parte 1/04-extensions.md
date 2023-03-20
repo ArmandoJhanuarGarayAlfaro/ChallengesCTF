@@ -22,10 +22,8 @@ flag.txt: PNG image data, 1697 x 608, 8-bit/color RGB, non-interlaced
 ```
 
 ![[Pasted image 20230318210202.png]]
+ ![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2008%20-%20Retos%20Forensic%20parte%201/Pasted%20image%2020230318210202.png)
 ## Bandera
 picoCTF{now_you_know_about_extensions}
 
 ## Notas Adicionales 
-|comando|descripcion|
-|---|---|
-|xx|xx|
