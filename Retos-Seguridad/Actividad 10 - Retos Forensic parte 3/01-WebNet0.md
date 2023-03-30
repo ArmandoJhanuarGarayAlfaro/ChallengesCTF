@@ -8,7 +8,9 @@ Try using a tool like Wireshark.
 How can you decrypt the TLS stream?
 
 ## Solucion 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2010%20-%20Retos%20Forensic%20parte%203/Pasted%20image%2020230329185141.png)
 ![[Pasted image 20230329185141.png]]
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2010%20-%20Retos%20Forensic%20parte%203/Pasted%20image%2020230329185343.png)
 ![[Pasted image 20230329185343.png]]
 
 ## Bandera
