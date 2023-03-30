@@ -26,6 +26,7 @@ Weird that it won't display right...
 └─$ 
 
 ```
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2010%20-%20Retos%20Forensic%20parte%203/Pasted%20image%2020230329192305.png)
 ![[Pasted image 20230329192305.png]]
 ## Bandera
 picoCTF{qu1t3_a_v13w_2020}
