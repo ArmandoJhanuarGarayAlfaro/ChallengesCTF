@@ -111,7 +111,7 @@ No errors detected in mystery (9 chunks, 96.3% compression).
 
 
 ```
-
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2009%20-%20Retos%20Forensic%20parte%202/Pasted%20image%2020230320153428.png)
 ![[Pasted image 20230320153428.png]]
 ## Bandera
 picoCTF{c0rrupt10n_1847995}
@@ -119,7 +119,7 @@ picoCTF{c0rrupt10n_1847995}
 ## Notas Adicionales 
 |comando|descripcion|
 |---|---|
-|hexeditor|xx|
-|pngcheck|xx|
+|hexeditor| edit or manage different data like ASCII format, binary format, etc.|
+|pngcheck| verifies the integrity of PNG, JNG and MNG files|
 
 

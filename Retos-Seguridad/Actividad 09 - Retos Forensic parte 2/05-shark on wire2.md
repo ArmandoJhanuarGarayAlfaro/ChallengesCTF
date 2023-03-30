@@ -7,6 +7,7 @@ We found this [packet capture](https://jupiter.challenges.picoctf.org/static/b50
 (None)
 
 ## Solucion 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2009%20-%20Retos%20Forensic%20parte%202/Pasted%20image%2020230320160259.png)
 ![[Pasted image 20230320160259.png]]
 
 ```python
