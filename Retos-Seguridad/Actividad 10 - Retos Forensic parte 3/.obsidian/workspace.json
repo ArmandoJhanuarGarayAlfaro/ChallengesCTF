@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "1d719ed366748950",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa33d7448cecc9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9fdeacc71a62478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dab404ded347c78b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5469d687526ad6b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3083a16a3ed2de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cbbd18d2b36ad32",
+    "type": "split",
+    "children": [
+      {
+        "id": "43584d033c3d5816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5f586c1024fa66c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0278b6148285c0c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a77253fd3c80fe25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aebdfb11124b51e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5194bada7fcd6977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50871fb5d1d3d85f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05-MacroHard WeakEdge.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0adb1f3d49d97eb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05-MacroHard WeakEdge.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0e8098864dc2021",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d541c47261eed87d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05-MacroHard WeakEdge.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e3083a16a3ed2de8",
+  "lastOpenFiles": [
+    "Pasted image 20230329193941.png",
+    "Plantilla.md",
+    "05-MacroHard WeakEdge.md",
+    "04-tunn3l_v1s10n.md",
+    "Pasted image 20230329192305.png",
+    "03-Matryoshka doll.md",
+    "02-WebNet1.md",
+    "Pasted image 20230329190100.png",
+    "01-WebNet0.md",
+    "Pasted image 20230329185343.png",
+    "Pasted image 20230329185141.png"
+  ]
+}
