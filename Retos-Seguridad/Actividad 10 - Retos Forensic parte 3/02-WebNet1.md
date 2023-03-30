@@ -13,6 +13,4 @@ How can you decrypt the TLS stream?
 picoCTF{honey.roasted.peanuts}
 
 ## Notas Adicionales 
-|comando|descripcion|
-|---|---|
-|xx|xx|
+
