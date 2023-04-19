@@ -46,6 +46,7 @@ Z | Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
 vigenere decode
 usando cyberchef
 ![[Pasted image 20230419125607.png]]
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2011%20-%20Retos%20Crypto%20parte%201/Pasted%20image%2020230419125607.png)
 ## Bandera
 picoCTF{CRYPTOISFUN}
 
