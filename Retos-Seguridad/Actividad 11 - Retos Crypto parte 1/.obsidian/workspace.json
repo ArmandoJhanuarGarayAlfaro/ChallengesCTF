@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "1d719ed366748950",
+    "id": "4a61dea63043bd9d",
     "type": "split",
     "children": [
       {
-        "id": "ab01b1170b291ec2",
+        "id": "2640a69e300504b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d18a77c5ab30f71b",
+            "id": "0a7a36358d75af08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "07-waves over lambda.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cbbd18d2b36ad32",
+    "id": "0b07a10250a86047",
     "type": "split",
     "children": [
       {
-        "id": "43584d033c3d5816",
+        "id": "7747f41a03c4eedb",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f586c1024fa66c",
+            "id": "bf66d0601cff6e4a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "0278b6148285c0c9",
+            "id": "fd806436d4508ac0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "a77253fd3c80fe25",
+            "id": "f483aa1b21892169",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "aebdfb11124b51e3",
+    "id": "b2aa874d9132188b",
     "type": "split",
     "children": [
       {
-        "id": "5194bada7fcd6977",
+        "id": "4bc8dc423b41e704",
         "type": "tabs",
         "children": [
           {
-            "id": "50871fb5d1d3d85f",
+            "id": "90ad691e36756238",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "07-waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "0adb1f3d49d97eb0",
+            "id": "b829e0ec1b6d665e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "07-waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e0e8098864dc2021",
+            "id": "deb867f5b5e1715f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "d541c47261eed87d",
+            "id": "b4baea33b6caacbb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "07-waves over lambda.md"
+              }
             }
           }
         ]
@@ -138,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d18a77c5ab30f71b",
+  "active": "0a7a36358d75af08",
   "lastOpenFiles": [
-    "05-MacroHard WeakEdge.md",
-    "04-tunn3l_v1s10n.md",
-    "03-Matryoshka doll.md",
-    "02-WebNet1.md",
-    "01-WebNet0.md",
-    "Pasted image 20230329193941.png",
+    "07-waves over lambda.md",
     "Plantilla.md",
-    "Pasted image 20230329192305.png",
-    "Pasted image 20230329190100.png",
-    "Pasted image 20230329185343.png",
-    "Pasted image 20230329185141.png"
+    "06-Tapping.md",
+    "Pasted image 20230419133047.png",
+    "05-la cifra de.md",
+    "04-Caesar.md",
+    "Pasted image 20230419130857.png",
+    "03-13.md",
+    "Pasted image 20230419130220.png",
+    "02-Easy 1.md",
+    "Pasted image 20230419125607.png",
+    "01-The Numbers.md",
+    "Pasted image 20230419121103.png"
   ]
 }
