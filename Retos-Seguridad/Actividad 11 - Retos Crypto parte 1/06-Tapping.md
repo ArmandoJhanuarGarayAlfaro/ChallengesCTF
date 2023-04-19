@@ -16,6 +16,7 @@ The flag is in the format PICOCTF{}
 ```
 
 ![[Pasted image 20230419133047.png]]
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2011%20-%20Retos%20Crypto%20parte%201/Pasted%20image%2020230419133047.png)
 ## Bandera
 PICOCTF{M0RS3C0D31SFUN1261438181}
 
