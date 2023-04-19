@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-waves over lambda.md",
+                "file": "03-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-waves over lambda.md",
+                "file": "03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07-waves over lambda.md",
+                "file": "03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07-waves over lambda.md"
+                "file": "03-13.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "0a7a36358d75af08",
   "lastOpenFiles": [
+    "04-Caesar.md",
+    "05-la cifra de.md",
+    "06-Tapping.md",
+    "03-13.md",
     "07-waves over lambda.md",
     "Plantilla.md",
-    "06-Tapping.md",
     "Pasted image 20230419133047.png",
-    "05-la cifra de.md",
-    "04-Caesar.md",
     "Pasted image 20230419130857.png",
-    "03-13.md",
     "Pasted image 20230419130220.png",
     "02-Easy 1.md",
     "Pasted image 20230419125607.png",
