@@ -7,10 +7,13 @@ We have several pages hidden. Can you find the one with the flag? The website is
 folders folders folders
 
 ## Solucion 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/SegundoParcial/Pasted%20image%2020230419151835.png)
 ![[Pasted image 20230419151835.png]]
 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/SegundoParcial/Pasted%20image%2020230419151918.png)
 ![[Pasted image 20230419151918.png]]
 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/SegundoParcial/Pasted%20image%2020230419152015.png)
 ![[Pasted image 20230419152015.png]]
 
 ## Bandera
