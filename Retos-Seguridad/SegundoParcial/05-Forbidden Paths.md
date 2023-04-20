@@ -7,8 +7,10 @@ Can you get the flag? Here's the [website](http://saturn.picoctf.net:55287/). We
 (None)
 
 ## Solucion 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/SegundoParcial/Pasted%20image%2020230419144818.png)
 ![[Pasted image 20230419144818.png]]
 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/SegundoParcial/Pasted%20image%2020230419144836.png)
 ![[Pasted image 20230419144836.png]]
 
 ## Bandera
