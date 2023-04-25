@@ -1,4 +1,4 @@
-# Reto
+# Power Cookie
 
 ## Descripcion
 Can you get the flag? Go to this [website](http://saturn.picoctf.net:65442/) and see what you can discover.
@@ -7,8 +7,10 @@ Can you get the flag? Go to this [website](http://saturn.picoctf.net:65442/) and
 Do you know how to modify cookies?
 
 ## Solucion 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/SegundoParcial/Pasted%20image%2020230419145246.png)
 ![[Pasted image 20230419145246.png]]
 
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/SegundoParcial/Pasted%20image%2020230419145442.png)
 ![[Pasted image 20230419145442.png]]
 
 ## Bandera
