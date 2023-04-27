@@ -12,6 +12,7 @@ Make sure you don't lose precision, the numbers are pretty big (besides the e va
 
 ## Solucion 
 ![[Pasted image 20230425134755.png]]
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2012%20-%20Retos%20Crypto%20parte%202/Pasted%20image%2020230425134755.png)
 ## Bandera
 picoCTF{n33d_a_lArg3r_e_d0cd6eae}
 
