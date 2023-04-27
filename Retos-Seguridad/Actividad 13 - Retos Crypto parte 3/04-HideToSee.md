@@ -19,6 +19,7 @@ krxlXGU{zgyzhs_xizxp_92533667}
 
 
 ```
+![visible en Github](https://github.com/Alexlife2002003/ChallengesCTF/blob/main/Retos-Seguridad/Actividad%2013%20-%20Retos%20Crypto%20parte%203/Pasted%20image%2020230426215352.png)
 ![[Pasted image 20230426215352.png]]
 ## Bandera
 picoCTF{atbash_crack_92533667}
